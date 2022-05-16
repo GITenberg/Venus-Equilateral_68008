@@ -5,6 +5,9 @@ contributor:
     agent_name: Levin, Sol
     gutenberg_agent_id: '54567'
     url: http://www.gutenberg.org/2009/agents/54567
+covers:
+- cover_type: archival
+  image_path: 68008-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Smith, George O. (George Oliver)
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9112
     wikipedia: http://en.wikipedia.org/wiki/John_W._Campbell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68008#Venus-Equilateral
 gutenberg_issued: '2022-05-06'
 identifiers:
   gutenberg: '68008'
